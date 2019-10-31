@@ -1,0 +1,2 @@
+include ':app', ':deskconnsdk'
+rootProject.name='DeskConn SDK'

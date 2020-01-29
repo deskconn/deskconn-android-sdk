@@ -4,9 +4,6 @@ import android.content.Context;
 
 import androidx.room.Room;
 
-import org.deskconn.deskconn.utils.database.AppDatabase;
-import org.deskconn.deskconn.utils.database.Service;
-import org.deskconn.deskconn.utils.database.ServiceDao;
 import org.deskconn.deskconnsdk.database.AppDatabase;
 import org.deskconn.deskconnsdk.database.Service;
 import org.deskconn.deskconnsdk.database.ServiceDao;
